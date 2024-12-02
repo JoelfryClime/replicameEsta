@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="descripción">
+<title>Document</title>
+</head>
+<body>
+
+<table border="2">
+<tr>
+<td colspan="2" aling="center">Formulario</td>
+</tr>
+
+<tr>
+<td align="center"><label for="nombre">Nombre</label></td>
+<td><input type="text" id="nombre" name="nombre"></td>
+</tr>
+
+<tr>
+<td align="center"><label for="apellido">Apellido</label></td>
+<td><input type="text" id="apellido" name="apellido"></td>
+</tr>
+
+<tr>
+<td align="center"><label for="correo">Correo</label></td>
+<td><input type="email" id="correo" name="correo"></td>
+</tr>
+
+<tr>
+<td align="center"><label for="edad">Correo</label></td>
+<td><input type="number" id="edad" name="edad"></td>
+</tr>
+
+<tr>
+<td align="center"><label for="password">Contraseña</label></td>
+<td><input type="password" id="password" name="password"></td>
+</tr>
+
+<tr>
+<td align="center"><label for="repetir-password">Repetir Contraseña</label></td>
+<td><input type="password" id="repetir-password" name="repetir-password"></td>
+</tr>
+
+<tr colspan="2">
+<button type="submit"></button>
+</tr>
+
+</table>
+</body>
+</html>
