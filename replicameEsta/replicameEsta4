@@ -1,0 +1,99 @@
+<html lang="zxx">
+
+<body>
+<table border="2">
+
+<tr>
+<td>
+<img src="imagenes/RD.png" alt="República Dominicana"></img>
+</td>
+
+<td>
+República Dominicana es un país del Caribe que comparte la isla La Española con Haití al oeste. Es conocida por sus playas, centros turísticos y áreas de golf. Su terreno incluye bosques tropicales, sabana y tierras altas, incluida Pico Duarte, la montaña más alta del Caribe.
+</td>
+
+<td>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_quXL5b2Vb4?si=aemQeEmDKdGGsX_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana">Saber más</a>
+</td>
+
+</tr>
+
+<tr>
+<td>
+<img src="imagenes/haiti.jpg" alt="Haití"></img>
+</td>
+
+<td>
+Haití es un país del Caribe que comparte la isla La Española con República Dominicana al este. Pese a estar recuperándose del terremoto de 2010, muchos de los monumentos de Haití que datan de comienzos del siglo XIX permanecen intactos.
+</td>   
+
+<td>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jCN6Zg1Ri8c?si=xkoPCEXnK83Pkp8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<a href="https://es.wikipedia.org/wiki/Hait%C3%AD">Saber más</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="imagenes/argentina.jpg" alt="Argentina">
+</td>
+
+<td>
+Argentina es un país sudamericano de gran envergadura con un terreno que incluye las montañas de los Andes, lagos glaciales y praderas en las Pampas, la tierra tradicional de pastoreo de su famoso ganado. El país es conocido por el baile y la música del tango.
+</td>
+
+<td>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Bjsv6Ft9nk?si=UnpABkKNIk1NeQJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+<td>
+<a href="https://es.wikipedia.org/wiki/Argentina">Saber más</a>
+</td>
+
+</tr>
+
+<tr>
+<td>
+<img src="imagenes/espana.png" alt="">
+</td>
+
+<td>
+España, país de la península ibérica de Europa, incluye 17 regiones autónomas con diversas características geográficas y culturales. En Madrid, su capital, se encuentra el Palacio Real y el Museo del Prado, que alberga obras de maestros europeos.
+</td>
+
+<td>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWCldYPEsl4?si=046SSJedFRITksbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<a href="https://es.wikipedia.org/wiki/Espa%C3%B1a">Saber más</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="imagenes/venezuela.png" alt="">
+</td>
+
+<td>
+Venezuela es un país de la costa norte de América del Sur, con diversas atracciones naturales. A lo largo de su costa en el Caribe, hay islas turísticas tropicales, entre ellas la Isla de Margarita y el archipiélago Los Roques.
+</td>
+
+<td>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/usyDbeY-2_w?si=qrX-jKyZq2d3afir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<a href="https://es.wikipedia.org/wiki/Venezuela">Saber más</a>
+</td>
+</tr>	
+
+</table>
+</body>
+</html>
